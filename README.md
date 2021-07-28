@@ -1,4 +1,4 @@
-It is a very quick and dirty way of generating an image of a Julia set given a value c (where c is a complex number). The file takes three inputs, in order: 
+This is a very quick and dirty way of generating an image of a Julia set given a value c (where c is a complex number). The file takes three inputs, in order: 
 
 * `c`: The julia set's constant. A complex number with magnitude at most 2. 
 * `resolution`: The output image's side-length in pixels. (The function produces a resolution*resulution Image). MUST BE AN INTEGER!
